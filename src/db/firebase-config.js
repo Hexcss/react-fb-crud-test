@@ -9,7 +9,7 @@ import {
   MESSAGE_SENDER_ID,
   PROJECT_ID,
   STORAGE_BUCKET,
-} from "./config/environment";
+} from "../config/environment";
 
 // Firebase configuration
 const firebaseConfig = {
